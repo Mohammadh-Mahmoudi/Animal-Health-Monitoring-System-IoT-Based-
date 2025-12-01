@@ -75,12 +75,6 @@ The system connects through:
 - **ESP8266 WiFi** → local router  
 - **Blynk Cloud** → remote visualization  
 
-Data is sent using:
-
-- `Blynk.virtualWrite()` for every sensor channel  
-- `Blynk.logEvent()` for fall alerts  
-- Built-in Blynk datastreams for GPS, BPM, SpO₂, temperature, and activity state  
-
 ---
 
 ### **4. User Interface (Blynk Dashboard)**
@@ -95,7 +89,7 @@ Blynk GUI displays:
 - ⚠️ Fall Detection LED  
 - 🐾 Last Update Times
 
-  
+
 
 <img width="1913" height="926" alt="KMPlayer64_MMjwJhF2SS" src="https://github.com/user-attachments/assets/1aa6875e-8e12-4c51-ae6e-ad780bdfb50a" />
 
@@ -106,16 +100,7 @@ Blynk GUI displays:
 
 https://drive.google.com/file/d/163SuuSxohJur7HfmAjImXiNQLF-HM9a5/view?usp=drive_link
 
-
 ---
-
-## 🖼 Device Photos
-
-
-<img width="400" height="600" alt="KMPlayer64_85ZNYPsI3y" src="https://github.com/user-attachments/assets/f935964f-d54b-4b91-985b-e9e7d33f775b" />
-
----
-
 
 ## 🚀 Future Development
 
@@ -132,6 +117,14 @@ Beyond WiFi, future versions can adopt long-range communication technologies lik
 By combining collected data with artificial intelligence, the system can evolve into a smart predictive assistant. Machine-learning models could analyze long-term patterns, predict potential health issues, and detect unusual behavior before serious problems occur. This transformation would turn the device from a simple monitoring tool into a proactive health-management platform that improves animal welfare and reduces treatment costs.
 
 
+---
+
+## 🖼 Device Photos
+
+
+<img width="400" height="600" alt="KMPlayer64_85ZNYPsI3y" src="https://github.com/user-attachments/assets/f935964f-d54b-4b91-985b-e9e7d33f775b" />
+
+---
 
 
 
