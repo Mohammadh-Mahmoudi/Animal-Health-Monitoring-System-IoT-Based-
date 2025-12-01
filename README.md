@@ -102,19 +102,17 @@ Blynk GUI displays:
 ---
 
 
-## 🎥 Demo Video
-👉 Insert your demo video link here:  
+## 🎥  Link to Demo Video in Google Drive
 
-`https://github.com/USERNAME/REPO/assets/...`
+https://drive.google.com/file/d/163SuuSxohJur7HfmAjImXiNQLF-HM9a5/view?usp=drive_link
 
-(To upload: go to Issues → New Issue → drag the video → copy generated link.)
 
 ---
 
 ## 🖼 Device Photos
 
 
-<img width="606" height="1068" alt="KMPlayer64_85ZNYPsI3y" src="https://github.com/user-attachments/assets/f935964f-d54b-4b91-985b-e9e7d33f775b" />
+<img width="400" height="600" alt="KMPlayer64_85ZNYPsI3y" src="https://github.com/user-attachments/assets/f935964f-d54b-4b91-985b-e9e7d33f775b" />
 
 
 
