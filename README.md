@@ -81,13 +81,14 @@ The system connects through:
 
 Blynk GUI displays:
 
-- 📍 GPS Location (coordinate)  
-- ❤️ Heart Rate  
-- 🫁 SpO₂ level  
-- 🌡️ Temperature (°C)  
-- 🏃 Activity State (Running / Walking / Resting)  
-- ⚠️ Fall Detection LED  
-- 🐾 Last Update Times
+- GPS Location (coordinate)
+- GPS Last Update Times
+- Heart Rate  
+- SpO₂ level  
+- Temperature (°C)  
+- Activity State (Running / Walking / Resting)  
+- Fall Detection LED  
+
 
 
 
