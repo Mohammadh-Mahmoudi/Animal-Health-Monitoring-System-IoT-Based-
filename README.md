@@ -1,4 +1,4 @@
-# 🐾 Animal Health Monitoring System (IoT-Based)
+#  Animal Health Monitoring System (IoT-Based)
 
 An IoT-based health monitoring system designed to track vital signs, physical activity, and the location of animals in real-time.  
 The system collects data from multiple sensors, processes it on a NodeMCU (ESP8266) microcontroller, and sends the results to **Blynk Cloud**, where the user can view all information through an intuitive GUI.
@@ -7,7 +7,7 @@ This project is designed for livestock and farm animals, but can be extended in 
 
 ---
 
-## ✨ Features
+##  Features
 
 - Real-time vital sign monitoring (Heart rate & SpO₂)
 - Body temperature measurement
@@ -20,7 +20,7 @@ This project is designed for livestock and farm animals, but can be extended in 
 
 ---
 
-## 🧩 Hardware Components
+##  Hardware Components
 
 | Component | Description |
 |----------|-------------|
@@ -34,14 +34,14 @@ This project is designed for livestock and farm animals, but can be extended in 
 
 ---
 
-## 🏗️ System Architecture Overview
+##  System Architecture Overview
 
 
 <img width="539" height="774" alt="chrome_BCA9CNWMy3" src="https://github.com/user-attachments/assets/813f5338-693f-40e9-a9d9-adf93952731b" />
 
 ---
 
-## 📡 How It Works
+##  How It Works
 
 ### **1. Sensor Data Acquisition**
 - **MAX30102** captures IR & RED light to estimate pulse rate and oxygen saturation.  
@@ -97,30 +97,29 @@ Blynk GUI displays:
 ---
 
 
-## 🎥  Link to Demo Video in Google Drive
+##  Link to Demo Video in Google Drive
 
 https://drive.google.com/file/d/163SuuSxohJur7HfmAjImXiNQLF-HM9a5/view?usp=drive_link
 
 ---
 
-## 🚀 Future Development
+##  Future Development
 
-### 🔧 Hardware Upgrades  
-In future versions, the hardware can be strengthened by replacing basic prototype sensors with more durable and precise industrial-grade components. This would help the system withstand harsh environmental conditions such as humidity, dust, sudden impacts, or extreme outdoor temperatures. Improved hardware can also reduce power consumption and significantly increase the device’s overall lifespan, making it more reliable for long-term use in farms or remote areas.
+###  Hardware Upgrades  
+In future versions, the hardware can be strengthened by replacing basic prototype sensors with more durable and precise industrial-grade components. 
 
-### 🆕 Adding New Sensors  
-The system can expand its monitoring capabilities by integrating additional sensors such as blood-pressure modules, environmental gas and air-quality sensors, audio-based anomaly detectors (for unusual animal sounds), or even thermal imaging cameras. These additions would create a far more comprehensive picture of an animal’s physical condition, enabling early detection of stress, illness, or abnormal behavior with greater accuracy.
+###  Adding New Sensors  
+The system can expand its monitoring capabilities by integrating additional sensors such as blood-pressure modules, environmental gas and air-quality sensors, audio-based anomaly detectors (for unusual animal sounds).
+###  Communication Range Expansion  
+Beyond WiFi, future versions can adopt long-range communication technologies like LoRa, NB-IoT, or GSM/4G modules to support data transmission over several kilometers.
 
-### 📡 Communication Range Expansion  
-Beyond WiFi, future versions can adopt long-range communication technologies like LoRa, NB-IoT, or GSM/4G modules to support data transmission over several kilometers. This would make the system suitable for large farms or open fields where WiFi coverage is limited. Using longer-range wireless protocols ensures the device remains connected almost anywhere, even without access to local internet infrastructure.
-
-### 🤖 AI-Powered Analysis  
-By combining collected data with artificial intelligence, the system can evolve into a smart predictive assistant. Machine-learning models could analyze long-term patterns, predict potential health issues, and detect unusual behavior before serious problems occur. This transformation would turn the device from a simple monitoring tool into a proactive health-management platform that improves animal welfare and reduces treatment costs.
+###  AI-Powered Analysis  
+By combining collected data with artificial intelligence, the system can evolve into a smart predictive assistant. Machine-learning models could analyze long-term patterns, predict potential health issues, and detect unusual behavior before serious problems occur.
 
 
 ---
 
-## 🖼 Device Photos
+##  Device Photos
 
 
 <img width="400" height="600" alt="KMPlayer64_85ZNYPsI3y" src="https://github.com/user-attachments/assets/f935964f-d54b-4b91-985b-e9e7d33f775b" />
